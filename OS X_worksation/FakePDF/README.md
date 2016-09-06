@@ -1,5 +1,9 @@
 # FakePDF
 
+# Disclamer
+
+Use at your own risk, don't be stupid, don't be rude, don't use against a system without authorizations
+
 ## Description
 
 This Cocoa app is made to look like a PDF file. You can name it "Financial Report" for example, store it on a USB flash drive and drop it on in your building.
